@@ -35,7 +35,7 @@ This repository provides **Machine Learning models for daily life tasks**:
 
 ## :wrench: Dependencies
 
-- Python >= 3.8  
+- Python 
 - NumPy  
 - Pandas  
 - Matplotlib  
