@@ -1,4 +1,4 @@
-![ML Daily Life Banner](https://github.com/username/ml-daily-life/assets/your-image-id)
+![ML Daily Life Banner](image/MLpic.png)
 
 <div align="center">
   
