@@ -43,9 +43,11 @@ This repository provides **Machine Learning models for daily life tasks**:
 - Scikit-learn
 - Pickle
 
-## 📖: About Author
--Alan Francis
--MCE, kerala, India 
--2023 to 2027
--Artificial Intelligence And Machine Learning 
+## 📖 About Author  
+
+- **Name:** Alan Francis  
+- **College:** Marian College of Engineering, Kerala, India  
+- **Batch:** 2023 – 2027  
+- **Department:** Artificial Intelligence and Machine Learning  
+
 
