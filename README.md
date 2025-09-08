@@ -26,8 +26,8 @@ This repository provides **Machine Learning models for daily life tasks**:
 
 ## :sparkles: Features
 
-- Prebuilt ML models (Regression, Classification, Clustering)  
-- Ready-to-use **Jupyter notebooks**  
+- Prebuilt ML models   
+- *Regression, Classification, Clustering*
 - Clean datasets & preprocessing examples  
 - Support for **real, continuous, and discrete data**  
 
@@ -40,5 +40,12 @@ This repository provides **Machine Learning models for daily life tasks**:
 - Pandas  
 - Matplotlib  
 - Seaborn  
-- Scikit-learn  
+- Scikit-learn
+- Pickle
+
+## :wrench: About Author
+-Alan Francis
+-MCE, kerala, India 
+-2023 to 2027
+-Artificial Intelligence And Machine Learning 
 
