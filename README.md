@@ -43,7 +43,7 @@ This repository provides **Machine Learning models for daily life tasks**:
 - Scikit-learn
 - Pickle
 
-## :wrench: About Author
+## 📖: About Author
 -Alan Francis
 -MCE, kerala, India 
 -2023 to 2027
