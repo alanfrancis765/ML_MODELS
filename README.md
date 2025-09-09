@@ -35,13 +35,13 @@ This repository provides **Machine Learning models for daily life tasks**:
 
 ## :wrench: Dependencies
 
-- Python 
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn
-- Pickle
+- Python 🐍  
+- NumPy 🔢  
+- Pandas 🐼  
+- Matplotlib 📈  
+- Seaborn 🎨  
+- Scikit-learn 🤖  
+- Pickle 📦 
 
 ## 📖 About Author  
 
