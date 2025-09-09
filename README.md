@@ -1,4 +1,4 @@
-![ML Daily Life Banner](image/Corporate Event Banner in Black and White Blue Light Blue Bold Gradient Style.mp4)
+![ML Daily Life Banner](image/Corporate Event Banner in Black and White Blue Light Blue Bold Gradient Style.gif)
 
 <div align="center">
   
