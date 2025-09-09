@@ -1,7 +1,7 @@
 import pickle 
 import numpy as np
 
-Model_path = "CO2_model.pkl"
+Model_path = "CO2_modelH1.pkl"
 def predict(feature, model_path=Model_path):
     with open(model_path, "rb") as f:
         model = pickle.load(f)
