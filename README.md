@@ -1,4 +1,4 @@
-![ML Daily Life Banner](image/MLBanner.gif)
+![ML Daily Life Banner](image/ML_banner2.gif)
 
 <div align="center">
   
